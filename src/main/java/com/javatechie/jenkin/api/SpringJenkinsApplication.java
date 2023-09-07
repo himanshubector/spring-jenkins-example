@@ -20,6 +20,7 @@ public class SpringJenkinsApplication
 	{
 		log.info("Application executed....................");
 		log.info("Another log statement....................");
+		log.info("Adding 3rd log statement....................");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
