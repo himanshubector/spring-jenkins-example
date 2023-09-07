@@ -9,7 +9,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest
 @Slf4j
-class SpringJenkinsApplicationTests {
+class SpringJenkinsApplicationTests
+{
 
 	@Test
 	void contextLoads()
